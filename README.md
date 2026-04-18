@@ -3,8 +3,8 @@
 
 ---
 
-🌱 Actualmente aprendiendo: **[Tecnologías]**  
-💬 Pregúntame sobre: **[Temas]**  
+🌱 Actualmente aprendiendo: **[null]**  
+💬 Pregúntame sobre: **[null]**  
 📫 Contacto discord: **lfy9wa73nsvebvq1vjyu9x5wz5jlmy4g**
 
 ---
