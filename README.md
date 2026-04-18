@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hola 👋, soy [Tu Nombre]</h1>
+<h3 align="center">Desarrollador apasionado por [lo que te gusta]</h3>
 
-<!--
-**slendermantvb/slendermantvb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 Actualmente aprendiendo: **[Tecnologías]**  
+💬 Pregúntame sobre: **[Temas]**  
+📫 Contacto: **tu@email.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Tecnologías
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,react" />
+</p>
+
+---
+
+### 📊 Estadísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TUUSER&show_icons=true&theme=radical" />
+</p>
+
+---
+
+### 🔥 Racha
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=TUUSER&theme=radical" />
+</p>
