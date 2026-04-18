@@ -5,7 +5,7 @@
 
 🌱 Actualmente aprendiendo: **[Tecnologías]**  
 💬 Pregúntame sobre: **[Temas]**  
-📫 Contacto: **tu@email.com**
+📫 Contacto discord: **lfy9wa73nsvebvq1vjyu9x5wz5jlmy4g**
 
 ---
 
