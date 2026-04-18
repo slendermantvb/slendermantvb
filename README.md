@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy slenderman</h1>
-<h3 align="center">Desarrollador apasionado por [lo que te gusta]</h3>
+<h3 align="center">Desarrollador apasionado por [aprender]</h3>
 
 ---
 
